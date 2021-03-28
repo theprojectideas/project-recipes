@@ -5,4 +5,4 @@ Project recipes categorized by technologies and difficulty. All projects have th
 
 | Project Name | Technologies | Difficulty |
 |--|--|--|
-| Avatar Creator Web Service by User Name | NodeJS | 🟢🟢⚪⚪ |
+| [Avatar Creator Web Service by User Name](https://github.com/theprojectideas/project-recipes/blob/main/projects/backend/nodejs/avatar-creator-web-service-by-user-name.md) | NodeJS | 🟢🟢⚪⚪ |
