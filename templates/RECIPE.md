@@ -35,7 +35,7 @@ Steps to follow and should not be skipped. There shouldn't be anything not done 
 - What is JWT: https://jwt.io/introduction
 - Redis Tutorial: https://www.tutorialspoint.com/redis/index.htm
 
-## Example
+## Example Projects
 
 If you have seen or done this project before, you can add it there.
 
