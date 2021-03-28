@@ -40,4 +40,4 @@ Most websites are using profile photos, but users may not have a profile photo. 
 
 ## Example Projects
 
-Not attached now
+- https://github.com/orcuntuna/avatar-creator
