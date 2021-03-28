@@ -1,4 +1,4 @@
-# Avatar Creator Web Service by Name
+# Avatar Creator Web Service by User Name
 
 ## Summary
 
@@ -17,7 +17,7 @@ Avatar creator application with first letter of name and surname for users witho
 
 ## Recipe
 
-Most websites are using profile photos, but users may not have a profile photo. You can give a default image to all users but this is very ordinary and bad looking. That's why we will create a picture with first letters of name and surname. Also each name will be in a different color. Google uses this method for features.
+Most websites are using profile photos, but users may not have a profile photo. You can give a default image to all users but this is very ordinary and bad looking. That's why we will create a picture with first letters of name and surname or username. Also each name will be in a different color. Google uses this method for features.
 
 <img src="https://raw.githubusercontent.com/hicay/react-native-text-avatar/master/demo.jpg" alt="example" height="200"/>
 
